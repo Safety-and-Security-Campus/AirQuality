@@ -14,3 +14,6 @@ These sensors have been selected because of their location within the city, so w
 
 ## DataCollection
 The data collection notebook focuses on the collection of the dust monitoring data. The code in this notebook will download the data from https://ilm2.site.dustmonitoring.nl and save the data into csv files separated by location. 
+
+## DataPreparation
+This notebook combines all the datasets gathered in the DataCollection notebook. It also formats the data.
