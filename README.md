@@ -1,7 +1,7 @@
 # AirQuality
 This repository is used for the collection, analysis and preparation of the Air Quality data. 
 
-![screenshot](data/eindhoven-map.png)
+![screenshot](images/eindhoven-map.png)
 
 The following locations have been selected for this collection:
 * I07: Green area
