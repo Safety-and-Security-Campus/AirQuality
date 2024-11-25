@@ -1,8 +1,6 @@
 # AirQuality
 This repository is used for the collection, analysis and preparation of the Air Quality data. 
 
-![screenshot](images/eindhoven-map.png)
-
 The following locations have been selected for this collection:
 * I07: Green area
 * I12: Inside Eindhoven city centre
@@ -11,6 +9,8 @@ The following locations have been selected for this collection:
 * I30: Outside of Eindhoven city centre
 * I36: Inside Eindhoven city centre
 * I37: Outside of Eindhoven city centre
+
+![screenshot](images/eindhoven-map.png)
 
 These sensors have been selected because of their location within the city, so we have a mix of sensors inside the centre, outside the centre and near green areas.
 
