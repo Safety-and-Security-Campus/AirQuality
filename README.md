@@ -12,8 +12,13 @@ The following locations have been selected for this collection:
 
 These sensors have been selected because of their location within the city, so we have a mix of sensors inside the centre, outside the centre and near green areas.
 
-## DataCollection
+The notebooks should be run in the following order:
+
+## 1. DataCollection
 The data collection notebook focuses on the collection of the dust monitoring data. The code in this notebook will download the data from https://ilm2.site.dustmonitoring.nl and save the data into csv files separated by location. 
 
-## DataPreparation
+## 2. DataPreparation
 This notebook combines all the datasets gathered in the DataCollection notebook. It also formats the data.
+
+## 3. DataCleaning
+In this notebook the missing values are analysed and the dataset is cleaned. The new cleaned dataset is exported.
